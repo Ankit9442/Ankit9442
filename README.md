@@ -114,6 +114,33 @@ Building backend systems that hold up outside the demo — a wildlife-tracking p
 
 ---
 
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit9442&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=2BE6C4&icon_color=2BE6C4&text_color=F2F6F4" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit9442&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=2BE6C4&text_color=F2F6F4" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Ankit9442&hide_border=true&background=0A0A0A&ring=2BE6C4&fire=2BE6C4&currStreakLabel=2BE6C4&sideLabels=F2F6F4&currStreakNum=F2F6F4&sideNums=F2F6F4&dates=8FA0A6" />
+
+<br/>
+
+**Contribution Activity**
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit9442&bg_color=0A0A0A&color=2BE6C4&line=2BE6C4&point=F2F6F4&hide_border=true&area=true" width="100%" />
+
+</div>
+
+### 🏅 GitHub Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ankit9442&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</div>
+
+---
+
 ## 🎓 Education & 🏆 Achievements
 
 **B.Tech, Computer Science Engineering** — Graphic Era Hill University (2020–2024) · CGPA 8.41
