@@ -118,10 +118,10 @@ Building backend systems that hold up outside the demo — a wildlife-tracking p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit9442&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=2BE6C4&icon_color=2BE6C4&text_color=F2F6F4" height="165" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Ankit9442&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=2BE6C4&icon_color=2BE6C4&text_color=F2F6F4" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit9442&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=2BE6C4&text_color=F2F6F4" height="165" />
 
-<br/>
+<br/> -->
 
 <img src="https://streak-stats.demolab.com?user=Ankit9442&hide_border=true&background=0A0A0A&ring=2BE6C4&fire=2BE6C4&currStreakLabel=2BE6C4&sideLabels=F2F6F4&currStreakNum=F2F6F4&sideNums=F2F6F4&dates=8FA0A6" />
 
