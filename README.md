@@ -1,83 +1,129 @@
-<h1 align="center">Hi, I'm Ankit Rawat 👋</h1> <h3 align="center">Software Engineer · Backend & Full-Stack (.NET / Angular)</h3> <p align="center"> I build enterprise-grade backend systems and full-stack applications with ASP.NET Core, C#, and PostgreSQL — with three years of experience shipping software that real people depend on, from forest rangers in the field to drivers running payroll. </p>
-About Me
+<div align="center">
 
-I'm a backend-leaning full-stack engineer who enjoys turning messy, real-world requirements into software that's reliable and easy to maintain. Most of my work sits at the intersection of RESTful API design, relational databases, and microservices architecture, with Angular or React handling the front end.
+# Ankit Rawat
 
-Current focus: building backend APIs and geospatial data workflows for a government wildlife-monitoring platform, including field-data ingestion and interactive mapping.
+**Software Engineer · Backend & Full-Stack (.NET / Angular)**
 
-Areas of interest: API architecture, microservices, secure authentication (JWT/RBAC), and applying clean full-stack fundamentals to systems that need to hold up in production.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2BE6C4&center=true&vCenter=true&width=560&lines=ASP.NET+Core+%C2%B7+C%23+%C2%B7+PostgreSQL;Angular+%2F+React+on+the+front+end;3+years+shipping+production+systems" alt="typing" />
 
-🔧 Technical Skills
+Building backend systems that hold up outside the demo — a wildlife-tracking platform used by state forest departments, and a logistics platform that runs payroll for drivers.
 
-Languages
-C# JavaScript TypeScript
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-rawat01)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit9442)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2BE6C4?style=for-the-badge&logo=googlechrome&logoColor=041B17)](https://ankit-rawat.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitrawat20052001@gmail.com)
 
-Frontend
-Angular React.js HTML5 CSS3 Bootstrap Tailwind CSS
+</div>
 
-Backend
-ASP.NET Core RESTful APIs Microservices Architecture JWT Authentication
+<br/>
 
-Databases
-PostgreSQL SQL Server SQLite Entity Framework Core
+## 🧩 Tech Stack
 
-Tools & Other
-Git GitHub Jira Visual Studio VS Code Postman IIS
+**Languages**
+<br/>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-Core CS Fundamentals: Data Structures & Algorithms · OOP · SOLID Principles · DBMS · Networking
+**Frontend**
+<br/>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-💼 Featured Projects
-M-STrIPES — Wildlife Monitoring Platform
+**Backend**
+<br/>
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-black?style=flat-square&logo=fastapi&logoColor=2BE6C4)
+![Microservices](https://img.shields.io/badge/Microservices-black?style=flat-square&logo=kubernetes&logoColor=2BE6C4)
+![JWT](https://img.shields.io/badge/JWT_Auth-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-Backend APIs and data-processing workflows for a government wildlife-monitoring system used by forest department personnel across multiple states.
+**Databases**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity_Framework_Core-black?style=flat-square&logo=dotnet&logoColor=2BE6C4)
 
-Built an interactive dashboard to parse and visualize SQLite files collected from field devices
-Integrated Leaflet.js for geospatial patrol-data visualization on interactive maps
-Designed REST endpoints tuned for reliability in low-connectivity field environments
-Stack: ASP.NET Core, PostgreSQL, SQLite, Leaflet.js, REST APIs
-fre8 — Enterprise Transportation Management System
+**Tools**
+<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-Led full-stack development of a TMS built on a microservices architecture.
+---
 
-Architected secure, scalable RESTful APIs in C# / ASP.NET Core
-Implemented JWT authentication and role-based authorization across the platform
-Designed a payroll module for drivers and owner-operators with automated payout workflows
-Built document-upload and check-in/check-out task management (Angular + .NET + PostgreSQL)
-Stack: ASP.NET Core, C#, Angular, TypeScript, PostgreSQL, JWT
-ClassTrack — Coaching Institute Management Platform
+## 💼 Featured Projects
 
-A multi-portal platform (Student / Admin / Faculty) built independently.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-JWT-based authentication with role-based access control (RBAC)
-Designed SQL Server schemas for scheduling, user management, and institutional records
-Stack: ASP.NET Core, C#, React.js, SQL Server, JWT
-Repo: [Add GitHub URL]
-🧭 Professional Experience
+**🐾 M-STrIPES**
+<br/>Wildlife-monitoring backend for state forest departments
 
-Software Programmer — Integrated Geo-Informatics Solutions Pvt. Ltd. (Feb 2025 – Present)
+`ASP.NET Core` `PostgreSQL` `SQLite` `Leaflet.js`
 
-Develop backend APIs and data-processing workflows for M-STrIPES, serving forest department personnel across multiple states
-Design RESTful endpoints consumed by mobile and web clients in low-connectivity field environments
-Collaborate directly with government stakeholders to deliver conservation and reporting features
-Tech: ASP.NET Core, PostgreSQL, SQLite, Leaflet.js, REST APIs, Git
+- Parses field-collected SQLite data
+- Interactive Leaflet.js patrol maps
+- APIs built for low-connectivity use
 
-Software Engineer — Arohar Technologies Pvt. Ltd. (Dec 2023 – Jan 2025)
+</td>
+<td width="33%" valign="top">
 
-Led full-stack development of fre8, a microservices-based TMS, using ASP.NET Core and Angular
-Owned features end-to-end — requirements, system design, deployment, and post-release support — in an Agile/Scrum environment
-Tech: ASP.NET Core, C#, Angular, TypeScript, PostgreSQL, JWT, Jira, Git
-🎓 Education
+**🚚 fre8**
+<br/>Enterprise Transportation Management System
 
-Bachelor of Technology — Computer Science Engineering
-Graphic Era Hill University · 2020 – 2024 · CGPA: 8.41
+`ASP.NET Core` `Angular` `TypeScript` `JWT`
 
-🏆 Certifications & Achievements
-Udemy: "React – The Complete Guide 2023" — component-based frontend architecture
-Finalist, CodeZilla Hackathon 2021–22 (Graphic Era Hill University) — built a centralized multi-campus sports portal in a 24-hour team hackathon
-LeetCode: 200+ problems solved
-📡 Connect With Me
-LinkedIn: linkedin.com/in/ankit-rawat01
-GitHub: github.com/Ankit9442
-Portfolio: ankit-rawat.github.io
-Email: ankitrawat20052001@gmail.com
-<p align="center"><i>Backend-focused engineer building systems that hold up outside the demo — currently based in Dehradun, India, open to remote roles.</i></p>
+- Led full-stack build, microservices
+- JWT auth + role-based access
+- Payroll module for drivers
+
+</td>
+<td width="33%" valign="top">
+
+**🎓 ClassTrack**
+<br/>Coaching-institute management platform
+
+`ASP.NET Core` `React.js` `SQL Server`
+
+- Student/Admin/Faculty portals
+- JWT + RBAC
+- SQL Server schema design
+- Repo: [Add GitHub URL]
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧭 Experience
+
+| Role | Company | Duration | Stack |
+|---|---|---|---|
+| Software Programmer | Integrated Geo-Informatics Solutions | Feb 2025 – Present | ASP.NET Core, PostgreSQL, SQLite, Leaflet.js |
+| Software Engineer | Arohar Technologies | Dec 2023 – Jan 2025 | ASP.NET Core, C#, Angular, TypeScript, PostgreSQL, JWT |
+
+---
+
+## 🎓 Education & 🏆 Achievements
+
+**B.Tech, Computer Science Engineering** — Graphic Era Hill University (2020–2024) · CGPA 8.41
+
+![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![Udemy](https://img.shields.io/badge/Udemy-React_Complete_Guide_2023-A435F0?style=flat-square&logo=udemy&logoColor=white)
+![Hackathon](https://img.shields.io/badge/CodeZilla_Hackathon_'21–22-Finalist-2BE6C4?style=flat-square&logo=starship&logoColor=041B17)
+
+---
+
+<div align="center">
+<i>Based in Dehradun, India — open to remote roles.</i>
+</div>
