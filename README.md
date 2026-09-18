@@ -125,12 +125,12 @@ Building backend systems that hold up outside the demo — a wildlife-tracking p
 
 <img src="https://streak-stats.demolab.com?user=Ankit9442&hide_border=true&background=0A0A0A&ring=2BE6C4&fire=2BE6C4&currStreakLabel=2BE6C4&sideLabels=F2F6F4&currStreakNum=F2F6F4&sideNums=F2F6F4&dates=8FA0A6" />
 
-<br/>
+</div>
 
-**Contribution Activity**
-<br/>
+### 📅 Contribution Activity
+
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit9442&bg_color=0A0A0A&color=2BE6C4&line=2BE6C4&point=F2F6F4&hide_border=true&area=true" width="100%" />
-
 </div>
 
 ### 🏅 GitHub Achievements
